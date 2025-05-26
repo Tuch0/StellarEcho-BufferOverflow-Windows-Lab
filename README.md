@@ -1,6 +1,6 @@
 # **StellarEcho: Laboratorio de Buffer Overflow 32‑bits para Windows**
 
----
+![EstelarEcho-lab](https://github.com/user-attachments/assets/00b1dd14-6ce1-4c12-a605-d041b4eba814)
 
 ## 🚀 ¿Qué es StellarEcho?
 
